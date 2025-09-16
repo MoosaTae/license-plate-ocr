@@ -1,0 +1,26 @@
+plate_number,province,vehicle_type,status
+กก 555,กรุงเทพมหานคร,private,active
+ซค 5,หนองบัวลำภู,private,active
+กท 2058,ฉะเชิงเทรา,private,active
+กข 123,กรุงเทพมหานคร,private,active
+นข 456,นครปฐม,private,active
+ชย 789,ชลบุรี,motorcycle,active
+สบ 101,สงขลา,private,active
+ขก 202,ขอนแก่น,private,active
+รย 303,ระยอง,truck,active
+พบ 404,เพชรบุรี,private,active
+นม 505,นครราชสีมา,private,active
+อท 606,อุทัยธานี,private,active
+บร 707,บุรีรัมย์,private,active
+ตร 808,ตราด,motorcycle,active
+สร 909,สุราษฎร์ธานี,private,active
+พง 111,พังงา,private,active
+กจ 222,กาญจนบุรี,truck,active
+มห 333,มหาสารคาม,private,active
+อบ 444,อุบลราชธานี,private,active
+ลพ 555,ลพบุรี,private,active
+กก 777,กรุงเทพมหานคร,private,active
+ชบ 888,ชลบุรี,private,active
+นย 999,นครสวรรค์,private,active
+ปท 101,ปทุมธานี,private,active
+สท 202,สมุทรปราการ,private,active
